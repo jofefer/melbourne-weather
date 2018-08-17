@@ -1,0 +1,29 @@
+.grey-jumbo {
+    margin-top: -30px;
+    border-radius: 0px !important;
+    height: 500px;
+    color: #fff;
+    background-size: cover;
+    background-color: #42a5f5;
+}
+hr.short {
+    width: 100px;
+    border-bottom: 2px solid #fff;
+}
+hr.below {
+    width: 50px;
+    border-bottom: 1px solid #fff;
+}
+.top {
+    background: linear-gradient(145deg, #0d47a1, #42a5f5);
+    color: #fff;
+    border-radius: 0px !important;
+    height: 300px;
+}
+#info1,
+#info2 {
+    font-size: 30px;
+}
+#info3 {
+    font-size: 60px;
+}
