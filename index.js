@@ -32,6 +32,7 @@ $(document).ready(function(){
                 var cloud = json.current.cloud;
 
                 //show some background picture to make it nicer
+                //pictures are taken from https://pixabay.com
                 if (temp < 18) {
                     $('.grey-jumbo').css({
                         backgroundImage: 'url(https://cdn.pixabay.com/photo/2013/10/27/17/14/frozen-201495_1280.jpg)'
